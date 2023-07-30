@@ -9,12 +9,11 @@ func main() {
 
 	for i := 0; i < 20; i++ {
 		if i%2 == 0 {
-            continue
-        }
+			continue
+		}
 		fmt.Print(i, " ")
 	}
-
-    bar();
+	bar()
 }
 
 func foo() {
@@ -22,5 +21,5 @@ func foo() {
 }
 
 func bar() {
-    fmt.Println("and then we exited")
+	fmt.Println("and then we exited")
 }
