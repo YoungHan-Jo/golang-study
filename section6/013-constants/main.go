@@ -4,7 +4,7 @@ import "fmt"
 
 const a = 42
 const b = 42.78
-const c = "James Bond" // untyped constant
+const c = "James Bond" // constant's type is untyped constant
 
 const (
 	d = 42
