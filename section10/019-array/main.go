@@ -12,4 +12,5 @@ func main() {
 	fmt.Println(x[3])
 	fmt.Println(x[3])
 	fmt.Println(x[3])
+	fmt.Println("upstream test")
 }
