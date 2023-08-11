@@ -10,4 +10,6 @@ func main() {
 	fmt.Println(x)
 	fmt.Println(len(x))
 	fmt.Println(x[3])
+	fmt.Println(x[3])
+	fmt.Println(x[3])
 }
